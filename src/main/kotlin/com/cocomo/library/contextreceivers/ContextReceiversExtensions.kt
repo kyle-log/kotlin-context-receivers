@@ -1,4 +1,4 @@
-package com.cocomo.library
+package com.cocomo.library.contextreceivers
 
 import kotlin.contracts.ExperimentalContracts
 import kotlin.contracts.InvocationKind
